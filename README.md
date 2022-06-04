@@ -6,7 +6,6 @@
 - [Name of project](#name-of-project)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
-  - [Screenshots](#screenshots)
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Code Examples](#code-examples)
@@ -22,10 +21,6 @@
 ## General info
 
 > A short description
-
-## Screenshots
-
-![Example screenshot](./planning/screenshot.jpg)
 
 ## Technologies
 
